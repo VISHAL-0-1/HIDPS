@@ -1,0 +1,52 @@
+2025-09-27 00:55:26,266 - INFO - MODULE: GUI | HIDS monitoring started from GUI interface
+2025-09-27 00:55:34,416 - INFO - Rate limiting VirusTotal API. Waiting 6.9 seconds for IP 13.107.246.68
+2025-09-27 00:55:36,419 - INFO - Rate limiting VirusTotal API. Waiting 4.9 seconds for IP 52.182.143.214
+2025-09-27 00:55:51,858 - INFO - MODULE: Network Monitor | Network scan detected from 192.168.1.50
+2025-09-27 00:55:54,967 - INFO - Email alert sent successfully!
+2025-09-27 00:55:54,968 - INFO - MODULE: Network Monitor | Suspicious DNS queries to known C&C domains
+2025-09-27 00:55:58,041 - INFO - Email alert sent successfully!
+2025-09-27 00:55:58,042 - INFO - MODULE: Network Monitor | Large data transfer to external IP detected
+2025-09-27 00:56:10,570 - INFO - Email alert sent successfully!
+2025-09-27 00:56:10,571 - INFO - MODULE: Network Monitor | Connection attempt to Tor exit node blocked
+2025-09-27 00:56:13,281 - INFO - Rate limiting VirusTotal API. Waiting 12.2 seconds for IP 64.233.170.108
+2025-09-27 00:56:13,781 - INFO - Email alert sent successfully!
+2025-09-27 00:56:13,788 - INFO - MODULE: FIM | Critical file modified: /etc/passwd
+2025-09-27 00:56:16,784 - INFO - Email alert sent successfully!
+2025-09-27 00:56:16,786 - INFO - MODULE: FIM | System configuration changed: /etc/ssh/sshd_config
+2025-09-27 00:56:19,861 - INFO - Email alert sent successfully!
+2025-09-27 00:56:19,862 - INFO - MODULE: FIM | Boot sector file accessed: /boot/grub/grub.cfg
+2025-09-27 00:56:22,932 - INFO - Email alert sent successfully!
+2025-09-27 00:56:22,933 - INFO - MODULE: FIM | Kernel module modified: /lib/modules/suspicious.ko
+2025-09-27 00:56:26,005 - INFO - Email alert sent successfully!
+2025-09-27 00:56:26,007 - INFO - MODULE: Process Monitor | Suspicious process running from /tmp: cryptominer
+2025-09-27 00:56:29,077 - INFO - Email alert sent successfully!
+2025-09-27 00:56:29,079 - INFO - MODULE: Process Monitor | Process attempting privilege escalation: exploit.py
+2025-09-27 00:56:32,666 - INFO - Email alert sent successfully!
+2025-09-27 00:56:32,667 - INFO - MODULE: Process Monitor | Network scanning tool detected: nmap
+2025-09-27 00:56:36,249 - INFO - Email alert sent successfully!
+2025-09-27 00:56:36,250 - INFO - MODULE: Process Monitor | Keylogger process identified: keylogger.exe
+2025-09-27 00:56:39,834 - INFO - Email alert sent successfully!
+2025-09-27 00:56:45,474 - INFO - Email alert sent successfully!
+2025-09-27 00:56:49,939 - INFO - Rate limiting VirusTotal API. Waiting 12.4 seconds for IP 52.182.143.214
+2025-09-27 00:59:21,787 - INFO - MODULE: GUI | HIDS monitoring started from GUI interface
+2025-09-27 00:59:24,375 - INFO - Rate limiting VirusTotal API. Waiting 12.4 seconds for IP 13.69.116.109
+2025-09-27 00:59:59,058 - INFO - Rate limiting VirusTotal API. Waiting 12.3 seconds for IP 13.69.116.109
+2025-10-27 02:57:19,089 - INFO - MODULE: GUI | HIDS monitoring started from GUI interface
+2025-10-27 02:57:22,552 - INFO - Rate limiting VirusTotal API. Waiting 11.9 seconds for IP 185.199.108.133
+2025-10-27 02:57:24,555 - INFO - Rate limiting VirusTotal API. Waiting 9.9 seconds for IP 13.107.13.93
+2025-10-27 02:57:35,058 - INFO - Email alert sent successfully!
+2025-10-27 02:58:01,404 - INFO - Rate limiting VirusTotal API. Waiting 10.2 seconds for IP 185.199.108.133
+2025-10-27 03:02:44,827 - INFO - MODULE: GUI | HIDS monitoring started from GUI interface
+2025-10-27 03:02:47,890 - INFO - Rate limiting VirusTotal API. Waiting 12.0 seconds for IP 13.107.246.68
+2025-10-27 03:03:09,509 - INFO - MODULE: FIM | Critical file modified: /etc/passwd
+2025-10-27 03:03:12,540 - INFO - Email alert sent successfully!
+2025-10-27 03:03:12,540 - INFO - MODULE: FIM | System configuration changed: /etc/ssh/sshd_config
+2025-10-27 03:03:15,789 - INFO - Email alert sent successfully!
+2025-10-27 03:03:15,790 - INFO - MODULE: FIM | Boot sector file accessed: /boot/grub/grub.cfg
+2025-10-27 03:03:19,532 - INFO - Email alert sent successfully!
+2025-10-27 03:03:19,533 - INFO - MODULE: FIM | Kernel module modified: /lib/modules/suspicious.ko
+2025-10-27 03:03:22,536 - INFO - Email alert sent successfully!
+2025-10-27 03:03:27,730 - INFO - Email alert sent successfully!
+2025-10-27 03:03:57,195 - INFO - Rate limiting VirusTotal API. Waiting 12.4 seconds for IP 20.42.73.31
+2025-10-27 03:05:04,444 - INFO - Email alert sent successfully!
+2025-10-27 03:36:05,826 - INFO - MODULE: GUI | HIDS monitoring started from GUI interface

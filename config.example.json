@@ -1,0 +1,28 @@
+{
+    "email": {
+        "sender_email": "your-email@gmail.com",
+        "password": "your-app-password-here",
+        "receiver_email": "alerts@yourcompany.com",
+        "send_alerts": true
+    },
+    "threat_intelligence": {
+        "virustotal_api_key": "your-virustotal-api-key-here"
+    },
+    "monitoring": {
+        "log_file": "/var/log/auth.log",
+        "baseline_file": "file_hashes.json",
+        "scan_interval": 10,
+        "fim_check_interval": 3600
+    },
+    "intrusion_prevention": {
+        "enabled": true,
+        "auto_block_malicious_ips": true,
+        "auto_kill_suspicious_processes": true,
+        "quarantine_modified_files": true,
+        "max_login_attempts": 5,
+        "block_duration_minutes": 60,
+        "whitelist_ips": ["127.0.0.1", "192.168.1.0/24"],
+        "protected_processes": ["systemd", "kernel", "ssh", "NetworkManager"],
+        "quarantine_directory": "/tmp/hids_quarantine"
+    }
+}

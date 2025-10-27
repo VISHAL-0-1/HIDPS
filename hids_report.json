@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-09-25 10:28:45",
+  "system_info": {
+    "hostname": "kali",
+    "platform": "Linux",
+    "cpu_usage": 66.0,
+    "memory_usage": 86.6,
+    "disk_usage": 22.1
+  },
+  "security_status": {
+    "ips_enabled": true,
+    "blocked_ips_count": 0,
+    "quarantined_files_count": 0,
+    "total_incidents": 0,
+    "auto_block_enabled": true,
+    "auto_kill_enabled": true,
+    "quarantine_enabled": true
+  },
+  "blocked_ips": [],
+  "quarantined_files": 0,
+  "total_incidents": 0
+}
